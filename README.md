@@ -3,31 +3,23 @@
 **Brief Description**:
 The "Far Away" project is an interactive travel checklist application designed to help users organize and manage their travel essentials. It allows users to create, update, and manage lists of items they need to pack for their trips, ensuring they don't forget anything important. This tool aims to simplify the preparation process for any travel, making it more efficient and stress-free.
 
-## Usage
-
-To start using Far Away, follow these steps:
-
-1. Open your browser and navigate to the Far Away application.
-2. Explore the checklist interface and start organizing your travel items.
-3. Save your travel preparations by logging new items and updating their status.
-
 ## Technologies Used
 
 The following technologies and libraries have been used in the development of Far Away:
 
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) **React** (version 18.3.1): The core framework for building the user interface. React's component-based architecture allows for creating reusable UI components.
+- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **React** (version 18.3.1): The core framework for building the user interface. React's component-based architecture allows for creating reusable UI components.
 
   **Description**: React's component-based architecture enables developers to build reusable UI components, making the development of complex UIs more manageable and efficient.
 
-- ![Redux Toolkit](https://img.icons8.com/color/48/000000/redux.png) **Redux Toolkit** (version 2.4.0): Simplifies state management by providing tools and best practices, making it easier to write maintainable and scalable code.
+- ![Redux Toolkit](https://redux-toolkit.js.org/img/redux-logo-landscape.png) **Redux Toolkit** (version 2.4.0): Simplifies state management by providing tools and best practices, making it easier to write maintainable and scalable code.
 
   **Description**: Redux Toolkit provides an efficient way to manage application state, offering tools that simplify actions, reducers, and the overall state management process, leading to cleaner and more maintainable code.
 
-- ![React Hook Form](https://img.icons8.com/color/48/000000/form.png) **React Hook Form** (version 7.54.0): Performant and flexible forms with easy-to-use validation.
+- ![React Hook Form](https://react-hook-form.com/images/logo-icon.svg) **React Hook Form** (version 7.54.0): Performant and flexible forms with easy-to-use validation.
 
   **Description**: React Hook Form makes form management in React applications more efficient by reducing re-renders, simplifying validation, and providing an easy API for developers.
 
-- ![React Redux](https://img.icons8.com/color/48/000000/redux.png) **React Redux** (version 9.1.2): Official React bindings for Redux, helping in managing the global state of the application.
+- ![React Redux](https://redux.js.org/img/redux-logo-landscape.png) **React Redux** (version 9.1.2): Official React bindings for Redux, helping in managing the global state of the application.
 
   **Description**: React Redux provides React components that enable a seamless connection to the Redux store, helping in the global state management of React applications.
 
