@@ -63,4 +63,4 @@ This application was designed, developed, and implemented by **amiralim1377**.
 
 With these technologies, Far Away is equipped with a robust, maintainable, and scalable architecture that ensures a smooth user experience and efficient development process.
 
-If you need any further details or have any specific questions, feel free to ask! 😊
+If you need any further details or have any specific questions, feel free to ask.😊
