@@ -2,8 +2,8 @@ import { useSelector } from "react-redux";
 import RequirementItem from "../Components/RequirementItem/RequirementItem";
 
 function Requirement() {
-  const requirement = useSelector((state) => state.trip.requirement);
-  const showrequirement = useSelector((state) => state.trip.show);
+  const requirement = useSelector((state) => state.trip?.requirement);
+  const showrequirement = useSelector((state) => state.trip?.show);
 
   if (!showrequirement) return null;
   return (

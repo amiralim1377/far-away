@@ -4,7 +4,7 @@ import { additem, clearitem, togglelist } from "../../Slice/tripSlice";
 import { v4 as uuidv4 } from "uuid";
 
 function Input() {
-  const showrequirement = useSelector((state) => state.trip.show);
+  const showrequirement = useSelector((state) => state.trip?.show);
   const dispatch = useDispatch();
   const {
     register,

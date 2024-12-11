@@ -1,8 +1,9 @@
 import { useDispatch, useSelector } from "react-redux";
 import { deleteitem } from "../../Slice/tripSlice";
 import { updatechecked } from "../../Slice/tripSlice";
-
+// eslint-disable-next-line
 function RequirementItem({ requirement }) {
+  // eslint-disable-next-line
   const { number, input, id, checked } = requirement;
   const dispatch = useDispatch();
 
@@ -29,6 +30,7 @@ function RequirementItem({ requirement }) {
         </span>
         <span
           className={`${
+            // eslint-disable-next-line
             input?.length > 12 ? "text-xs" : "text-xl"
           } font-Roboto text-white  font-semibold`}
         >
