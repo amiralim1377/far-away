@@ -27,7 +27,7 @@ The following technologies and libraries have been used in the development of Fa
 
   **Description**: Redux Persist allows you to persist and rehydrate the Redux store, ensuring that the application state remains consistent across sessions and page reloads.
 
-- <img src="https://www.svgrepo.com/show/354354/uuid.svg" width="48" height="48"> **UUID** (version 11.0.3): Simple and fast generation of UUIDs for unique identifiers.
+- <img src="https://camo.githubusercontent.com/3ae7b5d2da2381e1f04a1e4a7e0698f9a517b07fbbe85c80732f53c16bb7d180/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6b65792e706e67" width="48" height="48"> **UUID** (version 11.0.3): Simple and fast generation of UUIDs for unique identifiers.
 
   **Description**: UUID is a utility for generating unique identifiers efficiently, which is crucial for managing unique keys in applications.
 
@@ -45,11 +45,11 @@ The following technologies and libraries have been used in the development of Fa
 
   **Description**: Tailwind CSS offers a utility-first approach to styling, allowing developers to build responsive and modern user interfaces quickly.
 
-- <img src="https://www.svgrepo.com/show/349366/autoprefixer.svg" width="48" height="48"> **Autoprefixer** (version 10.4.20): A PostCSS plugin to parse CSS and add vendor prefixes automatically, improving cross-browser compatibility.
+- <img src="https://cdn.worldvectorlogo.com/logos/autoprefixer.svg" width="48" height="48"> **Autoprefixer** (version 10.4.20): A PostCSS plugin to parse CSS and add vendor prefixes automatically, improving cross-browser compatibility.
 
   **Description**: Autoprefixer automatically adds vendor prefixes to CSS rules, ensuring better cross-browser compatibility and reducing the need for manual prefix management.
 
-- <img src="https://postcss.org/assets/logo.svg" width="48" height="48"> **PostCSS** (version 8.4.49): A tool for transforming CSS with JavaScript plugins, enhancing CSS capabilities.
+- <img src="https://cdn.worldvectorlogo.com/logos/postcss.svg" width="48" height="48"> **PostCSS** (version 8.4.49): A tool for transforming CSS with JavaScript plugins, enhancing CSS capabilities.
 
   **Description**: PostCSS is a powerful tool for transforming CSS with JavaScript plugins, allowing for advanced CSS processing and optimization.
 
